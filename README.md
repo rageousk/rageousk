@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevSecOps.
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me @kambojsahil0000@gmail.com
+- 📫 How to reach me @kambojsahil295@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: 😊
 
