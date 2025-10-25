@@ -15,8 +15,8 @@ Currently, I'm an **IT Security Intern at Subaru of America**, diving into Ident
 
 ### 🚀 Some of My Projects
 
-* 🐍 **[Spaceship-War-Game](https://github.com/rageousk/Spaceship-War-Game)**: A fast-paced 1v1 arcade shooter built with Python and Pygame.
-* 🐦 **[Flappy-Bird](https://github.com/rageousk/Flappy-Bird)**: A clone of the classic mobile game, built from scratch in C# with the Unity game engine.
+* 🐍 **[Spaceship-War-Game](https://github.com/rageousk/Spaceship-War-Game)**: A 2D top-down space shooter (like 'Galaga') built in Python/Pygame for my Programming Languages course, featuring endless waves, boss battles, and a high-score save system.
+* 🐦 **[Flappy-Bird](https://github.com/rageousk/Flappy-Bird)**: A C#/Unity final project with a twist: a Flappy Bird clone that includes Mario-inspired Piranha plants and a shooting mechanic (Press 'F'!).
 
 <br>
 
