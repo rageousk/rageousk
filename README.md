@@ -8,8 +8,7 @@ Currently, I'm an **IT Security Intern at Subaru of America**, diving into Ident
 
 ### 🛠️ What I'm Currently Working On
 
-* 🚗 **RU-CarPool** (Private): My senior capstone project, where our team is building a carpooling web app for Rowan students.
-
+* 🚗 **Simulated AI-SIEM Dashboard** (Private): Senior Capstone Project: An anomaly detection platform utilizing an Isolation Forest model to identify irregular network patterns. Provides real-time visualization of threats and reduces false positives in log analysis.
 <br>
 
 ### 🚀 Some of My Projects
