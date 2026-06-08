@@ -26,5 +26,4 @@ Currently, I'm an **Cybersecurity Analyst at IEX Group**, diving into Identity &
 
 ### 📫 How to Reach Me
 
-* **Email**: kambojsahil125@gmail.com
 * **LinkedIn**: [linkedin.com/in/sahil-kamboj-7082b91a3](https://www.linkedin.com/in/sahil-kamboj-7082b91a3)
