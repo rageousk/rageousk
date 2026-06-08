@@ -1,4 +1,4 @@
-### Hi, I'm Sahil ( @rageousk ) 👋
+### Hi, I'm Sahil 👋
 
 I'm a dual-degree student at **Rowan University** (B.S. Computer Science & B.A. Computing & Informatics) passionate about the intersection of cybersecurity, AI-driven defense, and software development.
 
