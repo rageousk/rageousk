@@ -14,7 +14,7 @@ Currently, I'm an **Cybersecurity Analyst at IEX Group**, diving into Identity &
 * 🐍 **[Spaceship-War-Game](https://github.com/rageousk/Spaceship-War-Game)**: A 2D top-down space shooter (like 'Galaga') built in Python/Pygame for my Programming Languages course, featuring enemy AI and player power-ups.
 * 🐦 **[Flappy-Bird](https://github.com/rageousk/Flappy-Bird)**: A C#/Unity final project with a twist: a Flappy Bird clone that includes Mario-inspired Piranha plants and a shooting mechanic (Press Spacebar!).
 
-<br>
+---
 
 ### 💻 My Tech Stack & Interests
 
@@ -22,7 +22,7 @@ Currently, I'm an **Cybersecurity Analyst at IEX Group**, diving into Identity &
 * **Core Interests**: DevSecOps, Identity & Access Management (IAM), Cloud Security, Digital Forensics
 * **Tools & Tech**: Git, GitHub, Sentinel, MS Defender, EDR/XDR, Pygame, LÖVE, Unity, Active Directory, Jira, Confluence
 
-<br>
+---
 
 ### 📫 How to Reach Me
 
