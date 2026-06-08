@@ -8,7 +8,7 @@ Currently, I'm an **Cybersecurity Analyst at IEX Group**, diving into Identity &
 
 ### 🚀 Featured Projects
 
-* 🤖 Cyberpunks - AI SIEM Dashboard (Private): A full-stack ML-driven SIEM dashboard built for my Senior Capstone. Utilizes a Scikit-Learn Isolation Forest scoring engine to dynamically calculate risk from raw security logs, and integrates a context-aware AI analyst assistant (Groq API) to autonomously resolve baseline threats and execute IP blocking.
+* 🤖 **[Cyberpunks](https://github.com/rageousk/SIEM-Dashboard)**: A full-stack ML-driven SIEM dashboard built for my Senior Capstone. Utilizes a Scikit-Learn Isolation Forest scoring engine to dynamically calculate risk from raw security logs, and integrates a context-aware AI analyst assistant (Groq API) to autonomously resolve baseline threats and execute IP blocking.
 * 🧹 **[Digital-Janitor](https://github.com/rageousk/Digital-Janitor)**: A desktop automation utility built in **Lua** using the **LÖVE framework**. It automatically organizes cluttered directories into smart categories using native OS file system calls and features a stack-based "Undo" system.
 * 🦀 **[crypter](https://github.com/rageousk/crypter)**: A secure command-line file encryption tool written in **Rust**. Built to apply core concepts (Ownership, Structs) to cybersecurity, featuring **AES-256-GCM** encryption, **Argon2** key derivation, and automatic salting to prevent pre-computation attacks.
 * 🐍 **[Spaceship-War-Game](https://github.com/rageousk/Spaceship-War-Game)**: A 2D top-down space shooter (like 'Galaga') built in Python/Pygame for my Programming Languages course, featuring enemy AI and player power-ups.
